@@ -1,0 +1,13 @@
+.bg-img1{
+    background-position: center;
+    background-image: url('../img/Fondito.png');
+    background-color: transparent;
+    background-size: 1500px;
+    background-position: 40px 30px;
+ 
+    background-repeat: no-repeat;
+    background-position: 40% 20%;
+  
+}
+
+
